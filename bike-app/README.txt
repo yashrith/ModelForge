@@ -13,5 +13,6 @@ Python: For data handling, model training, and deployment.
 MLP Regressor (scikit-learn): To predict customer demand for bike rentals.
 Streamlit: For building an interactive and user-friendly web app that allows real-time input and output.
 Matplotlib/Plotly: For visualizing the prediction curve and analysis of bike rental demand.
+
 Outcome:
 This project provides a valuable tool for bike rental services, helping them predict customer demand under various conditions. The interactive Streamlit application allows users to simulate different scenarios and see how changes in environmental factors affect customer turnout for bike rentals.
